@@ -1,0 +1,18 @@
+.predicted {
+    margin-top: 1%;
+    font-size: 90%;
+    color: #ae002b;
+}
+
+.show-more-btn .show-drug-btn {
+    margin-top: 1.5% !important;
+    font-size: 100%;
+}
+
+.show-more-btn {
+    margin-right: 1%;
+}
+
+.show-drug-btn {
+    margin-left: 1%;
+}
